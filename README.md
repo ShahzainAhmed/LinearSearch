@@ -1,3 +1,2 @@
 # Linear Search:
-### In Computer Science, a linear search 
-
+### In Computer Science, a linear search or sequential search 
